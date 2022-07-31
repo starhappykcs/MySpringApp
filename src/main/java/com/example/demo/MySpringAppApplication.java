@@ -13,7 +13,7 @@ public class MySpringAppApplication {
 
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello, Spring Boot";
+		return "Hello, Spring Boot ^^";
 	}
 	
 }
